@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="action_settings">Settings</string>
+    <string name="not_implementing_interface">The Activity is not implementing the ItemHandler interface.</string>
+    <string name="edit_item">Edit Item</string>
+    <string name="new_item">New Item</string>
+    <string name="create">Create</string>
+    <string name="cancel">Cancel</string>
+    <string name="field_cannot_be_empty">Item Name cannot be empty</string>
+    <string name="new_shopping_item">New Shopping Item</string>
+    <string name="initial_instruction">Tap here to create new shopping item</string>
+    <string name="item_database">item_database</string>
+    <string name="Price_empty">Price cannot be empty</string>
+</resources>
